@@ -14,7 +14,7 @@ Tau: p x k inverse tau squared matrix (1/tau^2)
 Lambda: 1 x k squared precision matrix (lambda^2)
 
 Author :  Uday Velakur
-Email: u.velakur@tu-braunschweig.de
+Email: uvelakur@getyourguide.com
 Date: October 2020
 %}
 
