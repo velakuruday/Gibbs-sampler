@@ -13,7 +13,7 @@ Lambda: 1 x k squared precision matrix (lambda^2)
 Delta : 1 x k squared precision matrix (delta^2)
 
 Author :  Uday Velakur
-Email: uvelakur@getyourguide.com
+Email: velakuruday@gmail.com 
 Date: October 2020
 %}
 M = size(A,1);
